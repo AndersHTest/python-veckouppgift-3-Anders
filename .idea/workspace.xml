@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="331dd79a-4170-4d9d-8d51-fd84fa439385" name="Changes" comment="Lade till uträkning på varje steg i fråga 4.">
-      <change afterPath="$PROJECT_DIR$/Loopar_Listor.py" afterDir="false" />
+    <list default="true" id="331dd79a-4170-4d9d-8d51-fd84fa439385" name="Changes" comment="Uppgift 2 klar.">
+      <change afterPath="$PROJECT_DIR$/Kvittouträknaren.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -47,6 +47,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.Kvittouträknaren.executor": "Run",
     "Python.Loopar_Listor.executor": "Run",
     "Python.main.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -74,7 +75,7 @@
       <option name="presentableId" value="Default" />
       <updated>1779797062123</updated>
       <workItem from="1779797063127" duration="5482000" />
-      <workItem from="1779887965092" duration="5663000" />
+      <workItem from="1779887965092" duration="13403000" />
     </task>
     <task id="LOCAL−00001" summary="Config files">
       <option name="closed" value="true" />
@@ -104,7 +105,14 @@
       <option name="presentableId" value="LOCAL−00004" />
       <updated>1779888623258</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL−00005" summary="Uppgift 2 klar.">
+      <option name="closed" value="true" />
+      <created>1779893767583</created>
+      <option name="number" value="LOCAL−00005" />
+      <option name="presentableId" value="LOCAL−00005" />
+      <updated>1779893767583</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -115,9 +123,11 @@
     <MESSAGE value="Uppgift 1. Main." />
     <MESSAGE value="Uppdaterad readme." />
     <MESSAGE value="Lade till uträkning på varje steg i fråga 4." />
-    <option name="LAST_COMMIT_MESSAGE" value="Lade till uträkning på varje steg i fråga 4." />
+    <MESSAGE value="Uppgift 2 klar." />
+    <option name="LAST_COMMIT_MESSAGE" value="Uppgift 2 klar." />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Vecka_22$Kvittouträknaren.coverage" NAME="Kvittouträknaren Coverage Results" MODIFIED="1779901489048" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Vecka_22$main.coverage" NAME="main Coverage Results" MODIFIED="1779802203205" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Vecka_22$Loopar_Listor.coverage" NAME="Loopar_Listor Coverage Results" MODIFIED="1779893470950" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
