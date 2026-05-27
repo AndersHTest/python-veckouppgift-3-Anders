@@ -49,15 +49,15 @@ print(counter)
 
 
 4.
-Ingenting, då det saknas en print ;) men vid jämna siffror på y går vi den första vägen, ojämna siffror på y går via else.
-Första rundan x = 1 (y=1)
-Andra rundan x = -1 (y=2)
-Tredje rundan = 8 (y=3)
-Resultatet tar jag mig inte till i huvudet gärna :).
-Sista rundan kan jag räkna ut när jag vet svaret:
-y = 9
-x + 9 * 9 = 145.
-x måste alltså ha varit 145 - 81 = 64 på näst sista steget.
+1.	x = 1 (0+1)
+2.	x = -1 (1-2)
+3.	x = 8 (-1+9)
+4.	x = 4 (8-4)
+5.	x = 29 (4+25)
+6.	x = 23 (29-6)
+7.	x = 72 (23+79)
+8.	x = 64 (72-8)
+9.	x = 145 (64+81)
 
 x = 0
 y = 1
