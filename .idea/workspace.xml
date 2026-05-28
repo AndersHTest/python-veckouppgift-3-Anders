@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="331dd79a-4170-4d9d-8d51-fd84fa439385" name="Changes" comment="Uppgift 4 klar.">
-      <change afterPath="$PROJECT_DIR$/Gissa_talet.py" afterDir="false" />
+    <list default="true" id="331dd79a-4170-4d9d-8d51-fd84fa439385" name="Changes" comment="Uppgift 6 klar.">
+      <change afterPath="$PROJECT_DIR$/Todo_list.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
@@ -52,6 +52,7 @@
     "Python.Gissa_talet.executor": "Run",
     "Python.Kvittouträknaren.executor": "Run",
     "Python.Loopar_Listor.executor": "Run",
+    "Python.Todo_list.executor": "Run",
     "Python.main.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
@@ -80,7 +81,7 @@
       <workItem from="1779797063127" duration="5482000" />
       <workItem from="1779887965092" duration="13517000" />
       <workItem from="1779908659381" duration="6751000" />
-      <workItem from="1779953973673" duration="5756000" />
+      <workItem from="1779953973673" duration="13405000" />
     </task>
     <task id="LOCAL−00001" summary="Config files">
       <option name="closed" value="true" />
@@ -131,7 +132,14 @@
       <option name="presentableId" value="LOCAL−00007" />
       <updated>1779914747403</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL−00008" summary="Uppgift 5 klar.">
+      <option name="closed" value="true" />
+      <created>1779959743532</created>
+      <option name="number" value="LOCAL−00008" />
+      <option name="presentableId" value="LOCAL−00008" />
+      <updated>1779959743532</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -145,11 +153,14 @@
     <MESSAGE value="Uppgift 2 klar." />
     <MESSAGE value="Uppgift 3 klar." />
     <MESSAGE value="Uppgift 4 klar." />
-    <option name="LAST_COMMIT_MESSAGE" value="Uppgift 4 klar." />
+    <MESSAGE value="Uppgift 5 klar." />
+    <MESSAGE value="Uppgift 6 klar." />
+    <option name="LAST_COMMIT_MESSAGE" value="Uppgift 6 klar." />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Vecka_22$Figurer_med_loopar.coverage" NAME="Figurer med loopar Coverage Results" MODIFIED="1779914662977" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Vecka_22$Kvittouträknaren.coverage" NAME="Kvittouträknaren Coverage Results" MODIFIED="1779908932698" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Vecka_22$Todo_list.coverage" NAME="Todo_list Coverage Results" MODIFIED="1779968637742" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Vecka_22$main.coverage" NAME="main Coverage Results" MODIFIED="1779802203205" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Vecka_22$Loopar_Listor.coverage" NAME="Loopar_Listor Coverage Results" MODIFIED="1779893470950" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Vecka_22$Gissa_talet.coverage" NAME="Gissa_talet Coverage Results" MODIFIED="1779959672090" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
